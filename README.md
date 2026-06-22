@@ -1,7 +1,7 @@
 # Hi, I'm Khushi Sharma 👋
 
-🎓 B.Tech CSE Student at AITH, Kanpur (2025 - Present)
-🏫 Diploma from GPK (2025)
+🎓 B.Tech CSE Student at AITH, Kanpur
+🏫 Diploma in Information Technology from GPK (2025)
 💻 Passionate about Tech & Innovation
 📍 Kanpur, India
 
