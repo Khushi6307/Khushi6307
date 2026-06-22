@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Khushi Sharma 👋
 
-<!--
-**Khushi6307/Khushi6307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at AITH, Kanpur (2025 - Present)
+🏫 Diploma from GPK (2025)
+💻 Passionate about Tech & Innovation
+📍 Kanpur, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+`HTML` `CSS` `JavaScript` `Java` `Swing` `MySQL` `Python`
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| [🐍 Snake Water Gun](https://github.com/Khushi6307/snake-water-gun) | Python CLI game vs computer |
+| [📝 PolyNotes](https://github.com/Khushi6307/PolyNotes) | Note-taking web app |
+
+---
+
+## 🌱 Currently Learning
+- Python Programming
+- Core Java
+- Problem Solving
+
+---
+
+## 📫 Connect with me
+- GitHub: [Khushi6307](https://github.com/Khushi6307)
