@@ -15,9 +15,11 @@
 ## 🚀 Projects
 
 | Project | Description |
-|---------|-------------|
-| [🐍 Snake Water Gun](https://github.com/Khushi6307/snake-water-gun) | Python CLI game vs computer |
-| [📝 PolyNotes](https://github.com/Khushi6307/PolyNotes) | Note-taking web app |
+|---|---|
+| 🐍 [Snake Water Gun](https://github.com/Khushi6307/snake-water-gun) | Python CLI game vs computer |
+| 🔢 [Number Guessing Game](https://github.com/Khushi6307/number-guessing-game) | Python CLI number guessing game |
+| 🖥️ [Quiz Game](https://github.com/Khushi6307/Quiz_Game) | Python CLI Quiz with 3 difficulty levels |
+| 📝 [PolyNotes](https://github.com/Khushi6307/PolyNotes) | Note-taking web app |
 
 ---
 
@@ -25,6 +27,7 @@
 - Python Programming
 - Core Java
 - Problem Solving
+- Object Oriented Programming (OOP)
 
 ---
 
