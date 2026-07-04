@@ -19,7 +19,10 @@
 | 🐍 [Snake Water Gun](https://github.com/Khushi6307/snake-water-gun) | Python CLI game vs computer |
 | 🔢 [Number Guessing Game](https://github.com/Khushi6307/number-guessing-game) | Python CLI number guessing game |
 | 🖥️ [Quiz Game](https://github.com/Khushi6307/Quiz_Game) | Python CLI Quiz with 3 difficulty levels |
+| 🎙️ [Nova Voice Assistant](https://github.com/Khushi6307/Nova-Voice-Assistant) | Python-based Voice Assistant with wake word detection |
 | 📝 [PolyNotes](https://github.com/Khushi6307/PolyNotes) | Note-taking web app |
+
+
 
 ---
 
