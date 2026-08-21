@@ -20,7 +20,6 @@
 
 | Project | Description |
 
-|---|---|
 | 🤟 [SignSpeak AI](https://github.com/Khushi6307/SignSpeak-AI) | Real-time Indian Sign Language recognition system |
 
 | 🐍 [Snake Water Gun](https://github.com/Khushi6307/snake-water-gun) | Python CLI game vs computer |
